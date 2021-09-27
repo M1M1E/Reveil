@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Segment7';
+    src : url(./fonts/Segment7.ttf) format('truetype');
+}
+
+body{
+    font-family: 'segment7',serif;
+    background-color: black;
+    color : wheat;
+    font-size: 250px;
+}
+
+
+
+.doublePoint{
+    visibility: hidden;
+}
